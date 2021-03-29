@@ -9105,6 +9105,12 @@ ion-nav-view {
   color: white !important;
   top: 100px; }
 
+.fb-button-login:hover{
+  color: white;
+  background-color: black;
+  box-shadow: black 1px 1px 1px;
+}
+
 .fbnews .tab-item {
   color: gray !important; }
 
